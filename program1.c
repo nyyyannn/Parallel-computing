@@ -1,3 +1,8 @@
+/*Question 1:
+Write a OpenMP program to sort an array on n elements using both sequential and parallel
+mergesort(using Section). Record the difference in execution time.*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<omp.h>

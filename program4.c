@@ -1,3 +1,8 @@
+/*Question 4:
+Write a OpenMP program to find the prime numbers from 1 to n employing parallel for
+directive. Record both serial and parallel execution times.
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<omp.h>

@@ -1,3 +1,7 @@
+/*Question 5:
+Write a MPI Program to demonstration of MPI_Send and MPI_Recv.
+*/
+
 #include<mpi.h>
 #include<stdio.h>
 

@@ -1,3 +1,7 @@
+/*Question 7:
+Write a MPI Program to demonstration of Broadcast operation.
+*/
+
 #include<stdio.h>
 #include<mpi.h>
 

@@ -1,3 +1,7 @@
+/*Question 8:
+Write a MPI Program demonstration of MPI_Scatter and MPI_Gather
+*/
+
 #include<stdio.h>
 #include<mpi.h>
 

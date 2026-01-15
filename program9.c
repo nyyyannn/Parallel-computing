@@ -1,3 +1,8 @@
+/*Question 9:
+Write a MPI Program to demonstration of MPI_Reduce and MPI_Allreduce (MPI_MAX,
+MPI_MIN, MPI_SUM, MPI_PROD)
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<mpi.h>

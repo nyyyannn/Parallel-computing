@@ -1,3 +1,8 @@
+/*Question 6:
+Write a MPI program to demonstration of deadlock using point to point communication and
+avoidance of deadlock by altering the call sequence
+*/
+
 #include<stdio.h>
 #include<mpi.h>
 
